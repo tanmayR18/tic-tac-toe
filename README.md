@@ -32,4 +32,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://6481f6d2b9d3e30f8c3d1404--chimerical-youtiao-2d75d0.netlify.app/
+https://tic-tac-toe-18.netlify.app/
